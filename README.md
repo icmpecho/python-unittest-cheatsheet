@@ -6,3 +6,7 @@
 ## Running nose
 
     $ nosetests
+
+## Running nose and generate json to use with atom
+
+    $ nosetests --with-json-extended
