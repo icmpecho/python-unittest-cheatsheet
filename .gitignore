@@ -1,2 +1,4 @@
+.coverage
+cover/
 __pycache__
 nosetests.json
